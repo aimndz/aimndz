@@ -1,6 +1,3 @@
-## Hi there, I'm Amiel! 👋
-Full-stack developer with a passion for turning code into art!
-
 <pre align="center">
   
  █████╗  ██╗ ███╗   ███╗
@@ -11,6 +8,11 @@ Full-stack developer with a passion for turning code into art!
 ╚═╝  ╚═╝ ╚═╝ ╚═╝     ╚═╝
                    
 </pre>
+
+## Hi, I'm Amiel! 👋
+Full-stack developer with a passion for turning code into art!
+
+
 
 <!--
 **aimndz/aimndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
