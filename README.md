@@ -12,8 +12,21 @@
 ## Hi, I'm Amiel! 👋
 Full-stack developer with a passion for turning code into art!
 
-
-
+## 🛠️ Tech Stack 
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=Typescript&logoColor=white&style=flat" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=Javascript&logoColor=white&style=flat" />
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=Node.js&logoColor=white&style=flat" />
+    <img src="https://img.shields.io/badge/Express.js-000000?logo=Express&logoColor=white&style=flat" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=Postgresql&logoColor=white&style=flat" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&logoColor=white&style=flat" />
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwindcss&logoColor=white&style=flat" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
+    
+  </p>
+ 
 <!--
 **aimndz/aimndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
