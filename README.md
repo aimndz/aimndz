@@ -9,8 +9,8 @@
                    
 </pre>
 
-## Hi, I'm Amiel! 👋
-Full-stack developer with a passion for turning code into art!
+## 🎯 About me 
+  A Full-Stack Developer with a passion for turning code into art!
 
 ## 🛠️ Tech Stack 
   <p>
