@@ -10,7 +10,7 @@
 </pre>
 
 ## 🎯 About me <img align="right" src="https://komarev.com/ghpvc/?username=your-github-aimndz"/>
-  A Full-Stack Developer with a passion for turning code into art!
+  A Full-Stack Developer who views code as a form of art!
 
 ## 🛠️ Tech Stack 
   <p>
