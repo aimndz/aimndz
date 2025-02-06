@@ -12,7 +12,7 @@
 ## 🎯 About me <img align="right" src="https://komarev.com/ghpvc/?username=your-github-aimndz"/>
   A Full-Stack Developer who views code as a form of art!
 
-## 🛠️ Tech Stack 
+## 🛠️ Tech stack 
   <p>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=Typescript&logoColor=white&style=flat" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=Javascript&logoColor=white&style=flat" />
