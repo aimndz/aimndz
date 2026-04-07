@@ -14,7 +14,9 @@ A Full-Stack Developer who views code as a form of art.
 </pre>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-aimndz" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-aimndz" />&nbsp;&nbsp;
+  <a href="https://x.com/aim_ndz"><img src="https://img.shields.io/badge/Follow%20on%20X-000000?logo=x&logoColor=white&style=flat" /></a>&nbsp;
+  <a href="https://amielmendoza.com"><img src="https://img.shields.io/badge/amielmendoza.com-06232b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjciIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41Ii8+PHBhdGggZD0iTTEgOEgxNSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz48cGF0aCBkPSJNOCAxQzUgMyA1IDEzIDggMTUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41Ii8+PHBhdGggZD0iTTggMUMxMSAzIDExIDEzIDggMTUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41Ii8+PC9zdmc+&style=flat" /></a>
 </p>
 
 <h2 align="left">Tech Stack</h2>
